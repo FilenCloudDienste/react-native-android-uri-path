@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml:1:1-2:54
+INJECTED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml:1:1-2:54
+INJECTED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml:1:1-2:54
+	package
+		ADDED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml:2:5-42
+		INJECTED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml
+INJECTED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml
+INJECTED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml
+INJECTED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml
+		ADDED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml
+		ADDED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/src/main/AndroidManifest.xml

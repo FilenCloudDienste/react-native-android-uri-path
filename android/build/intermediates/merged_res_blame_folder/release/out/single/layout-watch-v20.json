@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-3/b2c70705f6de1a5008f5582832b2fcf4/transformed/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/jan/filen/app/node_modules/@flyerhq/react-native-android-uri-path/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-3/b2c70705f6de1a5008f5582832b2fcf4/transformed/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]
